@@ -4,7 +4,7 @@ Welcome to **nstm.food** — a simple, elegant website dedicated to all things f
 
 ## 🌐 Live Website
 
-👉 [Visit nstm.food](https://<your-github-username>.github.io/nstm.food)
+👉 [Visit nstm.food](nstm.food)
 
 > Replace the above link with your actual GitHub Pages URL.
 
