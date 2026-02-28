@@ -6,6 +6,8 @@ Welcome to **nstm.food** — a simple, elegant website dedicated to all things f
 
 👉 Visit {nstm.food}
 
+![Project Screenshot](./img1.png)
+![Project Screenshot](./img2.png)
 
 ## 🚀 Getting Started
 
